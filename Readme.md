@@ -1,8 +1,8 @@
 Android Work Manager Demo
 -------------------------
-Checks periodicallay an external database and notifies he user if the data was updated.
+Checks an external database periodically and notifies the user if the data was updated.
 
-![](Shot_MainActivity.jpg)
+![](MainActivity.jpg)
 
 ![](Notification.png)
 
